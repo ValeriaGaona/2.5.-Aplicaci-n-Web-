@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="row align-items-center">
+<div class="col-md-6">
+<h1>¿Por qué es importante cuidar el medio ambiente?</h1>
+<p class="lead">
+El medio ambiente es la base de la vida. Protegerlo garantiza bienestar,
+salud y recursos para las futuras generaciones.
+</p>
+</div>
+
+<div class="col-md-6">
+<img src="{{ url_for('static', filename='images/ambiente.jpg') }}" class="img-fluid rounded">
+</div>
+</div>
+
+{% endblock %}
