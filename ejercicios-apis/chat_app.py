@@ -12,7 +12,7 @@ if not firebase_admin._apps:
     if os.path.exists('firebase-credentials.json'):
         cred = credentials.Certificate('firebase-credentials.json')
         firebase_admin.initialize_app(cred, {
-            'databaseURL': 'https://TU-PROYECTO.firebaseio.com'  # Reemplazar con tu URL
+            'databaseURL': 'https://chatv-8ecbf-default-rtdb.firebaseio.com'  # Reemplazar con tu URL
         })
     else:
         print("⚠️ No se encontró firebase-credentials.json")

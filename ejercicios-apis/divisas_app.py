@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # ExchangeRate-API (obtener en https://www.exchangerate-api.com/)
-API_KEY = 'TU_API_KEY_AQUI'
+API_KEY = '9c7bebecf2cc04faa1fff0ad'
 BASE_URL = 'https://v6.exchangerate-api.com/v6'
 
 @app.route('/')
