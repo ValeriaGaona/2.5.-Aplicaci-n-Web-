@@ -13,6 +13,7 @@
 ### reddit_app [Ver imagenes](https://github.com/ValeriaGaona/2.5.-Aplicaci-n-Web-/blob/main/README.md#reddit_app) | [Ver Codigo]()
 ### spotify_app [Ver imagenes](https://github.com/ValeriaGaona/2.5.-Aplicaci-n-Web-/blob/main/README.md#spotify_app) | [Ver Codigo]()
 
+#
 
 ## app.py
 <img width="1919" height="1030" alt="Captura de pantalla 2026-02-18 143948" src="https://github.com/user-attachments/assets/a5adabec-7750-4b13-9306-69b2f6b26fef" />
